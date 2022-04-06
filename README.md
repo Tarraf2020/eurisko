@@ -29,6 +29,7 @@ If you aren't satisfied with the build tool and configuration choices, you can `
     "redux": "^4.1.2",
     "redux-thunk": "^2.4.1",
     
+  ### The project was from zero with material ui (no ready templates, i had no time to waste surfing templates on google...)
   ### missing parts of the projects
     1. fetching more data when scrolling to the end ( the same of scrollUp button but repeat the api call with page++ and add the new data to the old ones in the article state or redux store)
     2. search (filtering data from an array of data that is stored in the redux store)
